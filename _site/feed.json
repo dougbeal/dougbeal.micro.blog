@@ -1,0 +1,57 @@
+{
+	"title": "Douglas Beal",
+	"home_page_url": "http://dougbeal.micro.blog/",
+	"feed_url": "http://dougbeal.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/28/trying-empty-repo.html",
+			"content_html": "<p>Trying empty repo at <a href=\"https://github.com/dougbeal/dougbeal.micro.blog\">https://github.com/dougbeal/dougbeal.micro.blog</a></p>\n",
+			"date_published": "2017-04-28T20:43:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/28/trying-empty-repo.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/28/change-github-repo.html",
+			"content_html": "<p>Change GitHub repo to <a href=\"https://github.com/dougbeal/dougbeal.github.io.git\">https://github.com/dougbeal/dougbeal.github.io.git</a></p>\n",
+			"date_published": "2017-04-28T20:31:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/28/change-github-repo.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/28/github-push.html",
+			"content_html": "<p>GitHub push?</p>\n",
+			"date_published": "2017-04-28T20:17:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/28/github-push.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/28/httpsgooglphotosgvraptsdinmqcatsofmicroblog.html",
+			"content_html": "<p><a href=\"https://goo.gl/photos/GVR6aPtS47Din4Mq8\">https://goo.gl/photos/GVR6aPtS47Din4Mq8</a>\n#catsofmicroblog</p>\n",
+			"date_published": "2017-04-28T17:03:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/28/httpsgooglphotosgvraptsdinmqcatsofmicroblog.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/27/episode-sketchnoted-and.html",
+			"content_html": "<p>Episode 254 Sketchnoted and ‘shopped (in @acornapp) <a href=\"https://goo.gl/photos/NuCnzeLW5z4z7R2s6\">https://goo.gl/photos/NuCnzeLW5z4z7R2s6</a> @_penaddictfm</p>\n",
+			"date_published": "2017-04-27T22:27:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/27/episode-sketchnoted-and.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/27/httpblogdougbealcom-or-httpdougbealmicroblog.html",
+			"content_html": "<p><a href=\"http://blog.dougbeal.com\">http://blog.dougbeal.com</a> or <a href=\"http://dougbeal.micro.blog\">http://dougbeal.micro.blog</a> ending the yak shaving and just blogging</p>\n",
+			"date_published": "2017-04-27T20:59:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/27/httpblogdougbealcom-or-httpdougbealmicroblog.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/27/posts-seem-to.html",
+			"content_html": "<p>Posts seem to drop off of blog w/Hyde theme… trying different one.</p>\n",
+			"date_published": "2017-04-27T20:05:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/27/posts-seem-to.html"
+		}
+		
+	]
+}
