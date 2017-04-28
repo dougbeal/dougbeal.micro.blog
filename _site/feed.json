@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/04/28/bottles-of-ink.html",
+			"content_html": "<p>27 bottles of ink. Col-o-ring ink testing book. </p>\n\n<p><img src=\"(null)\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-04-28T21:43:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/04/28/bottles-of-ink.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/04/28/trying-empty-repo.html",
 			"content_html": "<p>Trying empty repo at <a href=\"https://github.com/dougbeal/dougbeal.micro.blog\">https://github.com/dougbeal/dougbeal.micro.blog</a></p>\n",
 			"date_published": "2017-04-28T20:43:00+00:00",
