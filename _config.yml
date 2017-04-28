@@ -1,0 +1,64 @@
+# Dependencies
+# - # - markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+# - # - permalink:        pretty
+# - # - relative_permalinks: true
+
+# Setup
+# - # - title:            '[TITLE]'
+# - # - tagline:          'A Jekyll theme'
+# - # - description:      "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - # - url:              "http://[HOSTNAME]"
+# - base# - # - url:          "[PATH]"
+# - user# - # - name: "[USERNAME]"
+
+# - # - author:
+  # - # - name:           'Mark Otto'
+  # - # - url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+# - title: "Douglas Beal"
+# - tagline: ""
+# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - base# - url: ""
+# - url: "http://dougbeal.micro.blog"
+# - markdown: "kramdown"
+# - user# - name: "dougbeal"
+# - permalink: "/:year/:month/:day/:title.html"
+# - relative_permalinks: false
+# - author: "Douglas Beal"
+# - name: "Douglas Beal"
+# - gravatar_hash: "264bb52db1a9563dd963816012316a7f"
+# - avatar: "http://www.gravatar.com/avatar/264bb52db1a9563dd963816012316a7f?s=160"
+full_# - name: "Douglas Beal"
+# - bio: ""
+twitter_# - user# - name: "murderofcrows"
+github_# - user# - name: "dougbeal"
+title: "Douglas Beal"
+tagline: ""
+description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+baseurl: ""
+url: "http://dougbeal.micro.blog"
+markdown: "kramdown"
+username: "dougbeal"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Douglas Beal"
+name: "Douglas Beal"
+gravatar_hash: "264bb52db1a9563dd963816012316a7f"
+avatar: "http://www.gravatar.com/avatar/264bb52db1a9563dd963816012316a7f?s=160"
+full_name: "Douglas Beal"
+bio: ""
+twitter_username: "murderofcrows"
+github_username: "dougbeal"
