@@ -4,8 +4,82 @@
     <title>Douglas Beal</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://dougbeal.micro.blog/</link>
-    <pubDate>Sat, 06 May 2017 19:46:08 +0000</pubDate>
-    <lastBuildDate>Sat, 06 May 2017 19:46:08 +0000</lastBuildDate>
+    <pubDate>Wed, 17 May 2017 05:35:04 +0000</pubDate>
+    <lastBuildDate>Wed, 17 May 2017 05:35:04 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;TableTop plays Fate Core, looks like a lot of fun.  &lt;a href=&quot;https://youtu.be/NOFXtAHg7vU&quot;&gt;youtu.be/NOFXtAHg7…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 May 2017 05:34:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/17/tabletop-plays-fate.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/17/tabletop-plays-fate.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Going to the &lt;a href=&quot;https://2017.indieweb.org&quot;&gt;2017.indieweb.org&lt;/a&gt;, and my rsvp &lt;a href=&quot;http://crw.moe/b/1u&quot;&gt;http://crw.moe/b/1u&lt;/a&gt; is at my own site. I blame @manton🤓&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 May 2017 07:51:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/09/going-to-the.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/09/going-to-the.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;That feeling when you want to crosspost about a blog post, so you need to get shortlinks on WordPress, but then crw.moe is available 😬&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 May 2017 07:46:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;🐝 on sunroof&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/74361b6771.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 May 2017 17:05:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;My &lt;a href=&quot;https://dougbeal.com&quot;&gt;macro blog&lt;/a&gt; has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 May 2017 16:49:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;&lt;a href=&quot;https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/&quot;&gt;Choosing A VPN: That One Privacy Site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looks legit, will use their criteria when I pick out a VPN next.  #micromemory&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 07 May 2017 16:47:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Emacs -  Change local indent in a javascript file, when it conflicts with global indent
+eval-expression [M-:]
+(progn (make-local-variable ‘js-indent-level) (setq js-indent-level 2))
+#emacs #elisp&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 May 2017 23:27:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though &lt;a href=&quot;https://github.com/microdotblog/issues/issues/38&quot;&gt;github.com/microdotb…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 May 2017 21:30:00 +0000</pubDate>
+        <link>http://dougbeal.micro.blog/2017/05/06/working-on-long.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/06/working-on-long.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;Floating rosemary flowers #portraitmodefail &lt;/p&gt;
