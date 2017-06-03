@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html",
+			"content_html": "<p>Play it and they shal come? @manton <a href=\"https://twitter.com/johnvoorhees/status/871129074575396864\">twitter.com/johnvoorh…</a></p>\n",
+			"date_published": "2017-06-03T23:16:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/05/20/slightly-creepy-and.html",
 			"content_html": "<p>Slightly creepy and accurate. Nebula awards are happening now.  ¯_(ツ)_/¯ </p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/de08b39f6b.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-20T22:02:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though <a href=\"https://github.com/microdotblog/issues/issues/38\">github.com/microdotb…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-06T21:30:00+00:00",
 			"url": "http://dougbeal.micro.blog/2017/05/06/working-on-long.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/04/floating-rosemary-flowers.html",
-			"content_html": "<p>Floating rosemary flowers #portraitmodefail </p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/0da7c592f3.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-04T21:50:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/05/04/floating-rosemary-flowers.html"
 		}
 		
 	]
