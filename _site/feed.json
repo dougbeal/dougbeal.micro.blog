@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html",
+			"content_html": "<p>iOS 11 upgrades you to two factor (from two step). This doesn’t look ominous at all</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/b4709712b5.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-06T15:27:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html",
 			"content_html": "<p>Play it and they shal come? @manton <a href=\"https://twitter.com/johnvoorhees/status/871129074575396864\">twitter.com/johnvoorh…</a></p>\n",
 			"date_published": "2017-06-03T23:16:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Emacs -  Change local indent in a javascript file, when it conflicts with global indent\neval-expression [M-:]\n(progn (make-local-variable ‘js-indent-level) (setq js-indent-level 2))\n#emacs #elisp</p>\n",
 			"date_published": "2017-05-06T23:27:00+00:00",
 			"url": "http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/06/working-on-long.html",
-			"content_html": "<p>Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though <a href=\"https://github.com/microdotblog/issues/issues/38\">github.com/microdotb…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-06T21:30:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/05/06/working-on-long.html"
 		}
 		
 	]
