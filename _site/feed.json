@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html",
+			"content_html": "<p>Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home. </p>\n",
+			"date_published": "2017-06-06T17:48:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html",
 			"content_html": "<p>Siri\nThat’s a 🤔sketch 😋</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/1acb3f5ce6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-06T17:44:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>My <a href=\"https://dougbeal.com\">macro blog</a> has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.</p>\n",
 			"date_published": "2017-05-07T16:49:00+00:00",
 			"url": "http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html",
-			"content_html": "<p><a href=\"https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/\">Choosing A VPN: That One Privacy Site</a></p>\n\n<p>Looks legit, will use their criteria when I pick out a VPN next.  #micromemory</p>\n\n",
-			"date_published": "2017-05-07T16:47:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html"
 		}
 		
 	]
