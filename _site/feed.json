@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html",
+			"content_html": "<p>Oops, didn’t create the first one with a location, refresh and join again. I just posted an event on Beacon: “line up for the talk show” <a href=\"http://beacon.party/\">beacon.party</a> Beacon, by @ashleynh &amp; @khanlou</p>\n",
+			"date_published": "2017-06-06T21:15:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html",
 			"content_html": "<p>No VPN control center control ☹️. Radar filed <a href=\"http://www.openradar.me/myradars/edit?id=5038696264892416\">www.openradar.me/myradars/…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/cc4ca95fe9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-06-06T18:14:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Going to the <a href=\"https://2017.indieweb.org\">2017.indieweb.org</a>, and my rsvp <a href=\"http://crw.moe/b/1u\">http://crw.moe/b/1u</a> is at my own site. I blame @manton🤓</p>\n",
 			"date_published": "2017-05-09T07:51:00+00:00",
 			"url": "http://dougbeal.micro.blog/2017/05/09/going-to-the.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html",
-			"content_html": "<p>That feeling when you want to crosspost about a blog post, so you need to get shortlinks on WordPress, but then crw.moe is available 😬</p>\n",
-			"date_published": "2017-05-09T07:46:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html"
 		}
 		
 	]
