@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2017/06/06/new-control-center.html",
+			"content_html": "<p>New control center timer control is 😻, and no stale Siri quips. <a href=\"https://goo.gl/photos/KnrRRzfexV4P12Sh9\">goo.gl/photos/Kn…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/7233bd1eed.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-06T18:12:00+00:00",
+			"url": "http://dougbeal.micro.blog/2017/06/06/new-control-center.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html",
 			"content_html": "<p>Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home. </p>\n",
 			"date_published": "2017-06-06T17:48:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🐝 on sunroof</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/74361b6771.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-07T17:05:00+00:00",
 			"url": "http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html",
-			"content_html": "<p>My <a href=\"https://dougbeal.com\">macro blog</a> has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.</p>\n",
-			"date_published": "2017-05-07T16:49:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html"
 		}
 		
 	]
