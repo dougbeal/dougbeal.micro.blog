@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-06-06 18:14
+microblog: true
+date: 2017-06-06 11:14 -0700
+guid: http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html
 ---
 No VPN control center control ☹️. Radar filed [www.openradar.me/myradars/...](http://www.openradar.me/myradars/edit?id=5038696264892416)
 
