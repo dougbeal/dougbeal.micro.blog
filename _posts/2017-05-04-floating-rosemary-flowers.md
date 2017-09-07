@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-05-04 21:50
+microblog: true
+date: 2017-05-04 14:50 -0700
+guid: http://dougbeal.micro.blog/2017/05/04/floating-rosemary-flowers.html
 ---
 Floating rosemary flowers #portraitmodefail 
 
