@@ -1,78 +1,88 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Douglas Beal",
-	"home_page_url": "http://dougbeal.micro.blog/",
-	"feed_url": "http://dougbeal.micro.blog/feed.json",
+	"home_page_url": "http://micro.dougbeal.com/",
+	"feed_url": "http://micro.dougbeal.com/feed.json",
 	"items": [
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/25/img-srchttpdougbealmicrobloguploadsffefejpg-width.html",
+	      	
 			"content_html": "<p><img src=\"http://dougbeal.micro.blog/uploads/2017/f36f94efe7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-25T03:50:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/25/img-srchttpdougbealmicrobloguploadsffefejpg-width.html"
+			"date_published": "2017-06-24T20:50:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/24/img-srchttpdougbealmicrobloguploadsffefejpg-width.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/25/pacman-at-ground.html",
+	      	
 			"content_html": "<p>PAC-MAN at Ground Kontrol#</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/0c48171cfc.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-25T03:33:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/25/pacman-at-ground.html"
+			"date_published": "2017-06-24T20:33:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/24/pacman-at-ground.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/07/oooh-i-didnt.html",
+	      	
 			"content_html": "<p>Oooh (I didn’t try “tea, earl grey, hot” ;). Tap to edit, didn’t have to use it, but 😍🤗. #ios11</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/34db2e7209.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-07T18:39:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/07/oooh-i-didnt.html"
+			"date_published": "2017-06-07T11:39:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/07/oooh-i-didnt.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html",
+	      	
 			"content_html": "<p>Oops, didn’t create the first one with a location, refresh and join again. I just posted an event on Beacon: “line up for the talk show” <a href=\"http://beacon.party/\">beacon.party</a> Beacon, by @ashleynh &amp; @khanlou</p>\n",
-			"date_published": "2017-06-06T21:15:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html"
+			"date_published": "2017-06-06T14:15:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/oops-didnt-create.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html",
+	      	
 			"content_html": "<p>No VPN control center control ☹️. Radar filed <a href=\"http://www.openradar.me/myradars/edit?id=5038696264892416\">www.openradar.me/myradars/…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/cc4ca95fe9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T18:14:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html"
+			"date_published": "2017-06-06T11:14:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/no-vpn-control.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/new-control-center.html",
+	      	
 			"content_html": "<p>New control center timer control is 😻, and no stale Siri quips. <a href=\"https://goo.gl/photos/KnrRRzfexV4P12Sh9\">goo.gl/photos/Kn…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/7233bd1eed.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T18:12:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/new-control-center.html"
+			"date_published": "2017-06-06T11:12:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/new-control-center.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html",
+	      	
 			"content_html": "<p>Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home. </p>\n",
-			"date_published": "2017-06-06T17:48:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html"
+			"date_published": "2017-06-06T10:48:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/turning-off-icloud.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html",
+	      	
 			"content_html": "<p>Siri\nThat’s a 🤔sketch 😋</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/1acb3f5ce6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T17:44:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html"
+			"date_published": "2017-06-06T10:44:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/sirithats-a-sketch.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html",
+	      	
 			"content_html": "<p>iOS 11 upgrades you to two factor (from two step). This doesn’t look ominous at all</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/b4709712b5.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T15:27:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html"
+			"date_published": "2017-06-06T08:27:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/06/ios-upgrades-you.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html",
+	      	
 			"content_html": "<p>Play it and they shal come? @manton <a href=\"https://twitter.com/johnvoorhees/status/871129074575396864\">twitter.com/johnvoorh…</a></p>\n",
-			"date_published": "2017-06-03T23:16:00+00:00",
-			"url": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html"
+			"date_published": "2017-06-03T16:16:00-07:00",
+			"url": "http://micro.dougbeal.com/2017/06/03/play-it-and.html"
 		}
 		
 	]
