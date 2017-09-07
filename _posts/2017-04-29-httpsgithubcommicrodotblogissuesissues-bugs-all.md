@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-04-29 18:58
+microblog: true
+date: 2017-04-29 11:58 -0700
+guid: http://dougbeal.micro.blog/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html
 ---
 [https://github.com/microdotblog/issues/issues/23](https://github.com/microdotblog/issues/issues/23) Bugs all the way down. Testing image upload with 1.0.1
 
