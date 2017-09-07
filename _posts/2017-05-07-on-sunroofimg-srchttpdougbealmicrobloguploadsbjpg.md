@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-05-07 17:05
+microblog: true
+date: 2017-05-07 10:05 -0700
+guid: http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html
 ---
 🐝 on sunroof
 
