@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-06-25 03:33
+microblog: true
+date: 2017-06-24 20:33 -0700
+guid: http://dougbeal.micro.blog/2017/06/25/pacman-at-ground.html
 ---
 PAC-MAN at Ground Kontrol#
 
