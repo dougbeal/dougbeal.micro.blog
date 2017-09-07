@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-06-06 17:44
+microblog: true
+date: 2017-06-06 10:44 -0700
+guid: http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html
 ---
 Siri
 That’s a 🤔sketch 😋
