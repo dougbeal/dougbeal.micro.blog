@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-05-04 21:16
+microblog: true
+date: 2017-05-04 14:16 -0700
+guid: http://dougbeal.micro.blog/2017/05/04/cropped-and-panned.html
 ---
 Cropped and panned and noir filter
 
