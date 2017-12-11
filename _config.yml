@@ -25,7 +25,7 @@ relative_permalinks: false
 author: "Douglas Beal"
 name: "Douglas Beal"
 gravatar_hash: "264bb52db1a9563dd963816012316a7f"
-avatar: "https://www.gravatar.com/avatar/264bb52db1a9563dd963816012316a7f?s=160"
+avatar: "https://micro.blog/dougbeal/avatar.jpg"
 full_name: "Douglas Beal"
 bio: ""
 twitter_username: "murderofcrows"
@@ -34,3 +34,4 @@ instagram_username: "murderofcro.ws"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
+site_id: ["SITE_ID"]
