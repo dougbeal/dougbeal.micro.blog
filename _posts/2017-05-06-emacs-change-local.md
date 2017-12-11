@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-06 16:27 -0700
+date: 2017-05-06 15:27 -0800
 guid: http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html
 ---
 Emacs -  Change local indent in a javascript file, when it conflicts with global indent
