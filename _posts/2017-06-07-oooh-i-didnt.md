@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-07 10:39 -0800
+audio: 
+date: 2017-06-07 14:39:52 -0400
 guid: http://dougbeal.micro.blog/2017/06/07/oooh-i-didnt.html
 ---
 Oooh (I didn’t try “tea, earl grey, hot” ;). Tap to edit, didn’t have to use it, but 😍🤗. #ios11
