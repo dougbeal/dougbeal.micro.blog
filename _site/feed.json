@@ -1,88 +1,208 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Douglas Beal",
-	"home_page_url": "http://micro.dougbeal.com/",
-	"feed_url": "http://micro.dougbeal.com/feed.json",
+	"home_page_url": "https://micro.dougbeal.com/",
+	"feed_url": "https://micro.dougbeal.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://dougbeal.micro.blog/2018/04/17/my-lets-encrypt.html",
+	      	
+			"content_html": "<p>My Let’s Encrypt expiration notices are really harshing my vacation, I need to move my blog to linode so it can automatically renew😬</p>\n",
+			"date_published": "2018-04-17T09:21:48-04:00",
+			"url": "https://micro.dougbeal.com/2018/04/17/my-lets-encrypt.html"
+		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/25/img-srchttpdougbealmicrobloguploadsffefejpg-width.html",
 	      	
 			"content_html": "<p><img src=\"http://dougbeal.micro.blog/uploads/2017/f36f94efe7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-24T19:50:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/24/img-srchttpdougbealmicrobloguploadsffefejpg-width.html"
+			"date_published": "2017-06-24T23:50:59-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/24/img-srchttpdougbealmicrobloguploadsffefejpg-width.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/25/pacman-at-ground.html",
 	      	
 			"content_html": "<p>PAC-MAN at Ground Kontrol#</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/0c48171cfc.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-24T19:33:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/24/pacman-at-ground.html"
+			"date_published": "2017-06-24T23:33:06-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/24/pacman-at-ground.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/07/oooh-i-didnt.html",
 	      	
 			"content_html": "<p>Oooh (I didn’t try “tea, earl grey, hot” ;). Tap to edit, didn’t have to use it, but 😍🤗. #ios11</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/34db2e7209.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-07T10:39:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/07/oooh-i-didnt.html"
+			"date_published": "2017-06-07T14:39:52-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/07/oooh-i-didnt.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html",
 	      	
 			"content_html": "<p>Oops, didn’t create the first one with a location, refresh and join again. I just posted an event on Beacon: “line up for the talk show” <a href=\"http://beacon.party/\">beacon.party</a> Beacon, by @ashleynh &amp; @khanlou</p>\n",
-			"date_published": "2017-06-06T13:15:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/oops-didnt-create.html"
+			"date_published": "2017-06-06T17:15:36-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/oops-didnt-create.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html",
 	      	
 			"content_html": "<p>No VPN control center control ☹️. Radar filed <a href=\"http://www.openradar.me/myradars/edit?id=5038696264892416\">www.openradar.me/myradars/…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/cc4ca95fe9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T10:14:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/no-vpn-control.html"
+			"date_published": "2017-06-06T14:14:29-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/no-vpn-control.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/new-control-center.html",
 	      	
 			"content_html": "<p>New control center timer control is 😻, and no stale Siri quips. <a href=\"https://goo.gl/photos/KnrRRzfexV4P12Sh9\">goo.gl/photos/Kn…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/7233bd1eed.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T10:12:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/new-control-center.html"
+			"date_published": "2017-06-06T14:12:04-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/new-control-center.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html",
 	      	
-			"content_html": "<p>Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home. </p>\n",
-			"date_published": "2017-06-06T09:48:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/turning-off-icloud.html"
+			"content_html": "<p>Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home.</p>\n",
+			"date_published": "2017-06-06T13:48:11-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/turning-off-icloud.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html",
 	      	
 			"content_html": "<p>Siri\nThat’s a 🤔sketch 😋</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/1acb3f5ce6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T09:44:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/sirithats-a-sketch.html"
+			"date_published": "2017-06-06T13:44:48-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/sirithats-a-sketch.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html",
 	      	
 			"content_html": "<p>iOS 11 upgrades you to two factor (from two step). This doesn’t look ominous at all</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/b4709712b5.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-06T07:27:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/06/ios-upgrades-you.html"
+			"date_published": "2017-06-06T11:27:18-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/06/ios-upgrades-you.html"
 		},
 		
 		{
 			"id": "http://dougbeal.micro.blog/2017/06/03/play-it-and.html",
 	      	
 			"content_html": "<p>Play it and they shal come? @manton <a href=\"https://twitter.com/johnvoorhees/status/871129074575396864\">twitter.com/johnvoorh…</a></p>\n",
-			"date_published": "2017-06-03T15:16:00-08:00",
-			"url": "http://micro.dougbeal.com/2017/06/03/play-it-and.html"
+			"date_published": "2017-06-03T19:16:29-04:00",
+			"url": "https://micro.dougbeal.com/2017/06/03/play-it-and.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/20/slightly-creepy-and.html",
+	      	
+			"content_html": "<p>Slightly creepy and accurate. Nebula awards are happening now.  ¯_(ツ)_/¯</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/de08b39f6b.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-20T18:02:54-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/20/slightly-creepy-and.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/17/tabletop-plays-fate.html",
+	      	
+			"content_html": "<p>TableTop plays Fate Core, looks like a lot of fun.  <a href=\"https://youtu.be/NOFXtAHg7vU\">youtu.be/NOFXtAHg7…</a></p>\n",
+			"date_published": "2017-05-17T01:34:41-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/17/tabletop-plays-fate.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/09/going-to-the.html",
+	      	
+			"content_html": "<p>Going to the <a href=\"https://2017.indieweb.org\">2017.indieweb.org</a>, and my rsvp <a href=\"http://crw.moe/b/1u\">http://crw.moe/b/1u</a> is at my own site. I blame @manton🤓</p>\n",
+			"date_published": "2017-05-09T03:51:36-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/09/going-to-the.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html",
+	      	
+			"content_html": "<p>That feeling when you want to crosspost about a blog post, so you need to get shortlinks on WordPress, but then crw.moe is available 😬</p>\n",
+			"date_published": "2017-05-09T03:46:25-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/09/that-feeling-when.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html",
+	      	
+			"content_html": "<p>🐝 on sunroof</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/74361b6771.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-07T13:05:06-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html",
+	      	
+			"content_html": "<p>My <a href=\"https://dougbeal.com\">macro blog</a> has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.</p>\n",
+			"date_published": "2017-05-07T12:49:41-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/07/my-macro-bloghttpsdougbealcom.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html",
+	      	
+			"content_html": "<p><a href=\"https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/\">Choosing A VPN: That One Privacy Site</a></p>\n\n<p>Looks legit, will use their criteria when I pick out a VPN next.  #micromemory</p>\n\n",
+			"date_published": "2017-05-07T12:47:57-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/07/choosing-a-vpn.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html",
+	      	
+			"content_html": "<p>Emacs -  Change local indent in a javascript file, when it conflicts with global indent\neval-expression [M-:]\n(progn (make-local-variable ‘js-indent-level) (setq js-indent-level 2))\n#emacs #elisp</p>\n",
+			"date_published": "2017-05-06T19:27:38-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/06/emacs-change-local.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/06/working-on-long.html",
+	      	
+			"content_html": "<p>Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though <a href=\"https://github.com/microdotblog/issues/issues/38\">github.com/microdotb…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-06T17:30:27-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/06/working-on-long.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/04/floating-rosemary-flowers.html",
+	      	
+			"content_html": "<p>Floating rosemary flowers #portraitmodefail</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/0da7c592f3.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-04T17:50:14-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/04/floating-rosemary-flowers.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/04/cropped-and-panned.html",
+	      	
+			"content_html": "<p>Cropped and panned and noir filter</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/2feb62d7d6.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-05-04T17:16:38-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/04/cropped-and-panned.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/05/01/great-lineup-this.html",
+	      	
+			"content_html": "<p>Great lineup this year, plus @speakers_union, @_connectedfm  Couldn’t stay away.  <a href=\"https://twitter.com/release_notes/status/859075084962729986\">https://twitter.com/release_notes/status/859075084962729986</a></p>\n",
+			"date_published": "2017-05-01T14:46:48-04:00",
+			"url": "https://micro.dougbeal.com/2017/05/01/great-lineup-this.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/30/ismh-httpswwwinstagramcompbtxctcwba.html",
+	      	
+			"content_html": "<p>@ismh <a href=\"https://www.instagram.com/p/BTXCTcwB76a/\">https://www.instagram.com/p/BTXCTcwB76a/</a></p>\n",
+			"date_published": "2017-04-30T01:41:10-04:00",
+			"url": "https://micro.dougbeal.com/2017/04/30/ismh-httpswwwinstagramcompbtxctcwba.html"
+		},
+		
+		{
+			"id": "http://dougbeal.micro.blog/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html",
+	      	
+			"content_html": "<p><a href=\"https://github.com/microdotblog/issues/issues/23\">https://github.com/microdotblog/issues/issues/23</a> Bugs all the way down. Testing image upload with 1.0.1</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/0ef4a5732a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-04-29T14:58:12-04:00",
+			"url": "https://micro.dougbeal.com/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html"
 		}
 		
 	]
