@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-06 10:12 -0800
+audio: 
+date: 2017-06-06 14:12:04 -0400
 guid: http://dougbeal.micro.blog/2017/06/06/new-control-center.html
 ---
 New control center timer control is 😻, and no stale Siri quips. [goo.gl/photos/Kn...](https://goo.gl/photos/KnrRRzfexV4P12Sh9)
