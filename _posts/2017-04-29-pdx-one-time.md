@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-04-29 10:32 -0800
+audio: 
+date: 2017-04-29 14:32:44 -0400
 guid: http://dougbeal.micro.blog/2017/04/29/pdx-one-time.html
 ---
 PDX - "One time I went to the airport on purpose 6 hours early to get work done." @MrsSoup. Art Supply Posse: 41: Heather’s Art Supplies are Moving 📦
