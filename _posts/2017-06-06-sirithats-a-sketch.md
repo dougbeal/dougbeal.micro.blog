@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-06 09:44 -0800
+audio: 
+date: 2017-06-06 13:44:48 -0400
 guid: http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html
 ---
 Siri
