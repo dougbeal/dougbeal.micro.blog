@@ -3,16 +3,25 @@
   <channel>
     <title>Douglas Beal</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/dougbeal&quot;&gt;@dougbeal on Micro.blog&lt;/a&gt;.</description>
-    <link>http://micro.dougbeal.com/</link>
-    <pubDate>Mon, 11 Dec 2017 11:48:07 -0800</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 11:48:07 -0800</lastBuildDate>
+    <link>https://micro.dougbeal.com/</link>
+    <pubDate>Tue, 17 Apr 2018 09:21:50 -0400</pubDate>
+    <lastBuildDate>Tue, 17 Apr 2018 09:21:50 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;My Let’s Encrypt expiration notices are really harshing my vacation, I need to move my blog to linode so it can automatically renew😬&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 09:21:48 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2018/04/17/my-lets-encrypt.html</link>
+        <guid isPermaLink="true">http://dougbeal.micro.blog/2018/04/17/my-lets-encrypt.html</guid>
+      </item>
     
       <item>
       	
         <description>&lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/f36f94efe7.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 24 Jun 2017 19:50:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/24/img-srchttpdougbealmicrobloguploadsffefejpg-width.html</link>
+        <pubDate>Sat, 24 Jun 2017 23:50:59 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/24/img-srchttpdougbealmicrobloguploadsffefejpg-width.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/25/img-srchttpdougbealmicrobloguploadsffefejpg-width.html</guid>
       </item>
     
@@ -22,8 +31,8 @@
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/0c48171cfc.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 24 Jun 2017 19:33:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/24/pacman-at-ground.html</link>
+        <pubDate>Sat, 24 Jun 2017 23:33:06 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/24/pacman-at-ground.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/25/pacman-at-ground.html</guid>
       </item>
     
@@ -33,8 +42,8 @@
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/34db2e7209.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 07 Jun 2017 10:39:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/07/oooh-i-didnt.html</link>
+        <pubDate>Wed, 07 Jun 2017 14:39:52 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/07/oooh-i-didnt.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/07/oooh-i-didnt.html</guid>
       </item>
     
@@ -42,8 +51,8 @@
       	
         <description>&lt;p&gt;Oops, didn’t create the first one with a location, refresh and join again. I just posted an event on Beacon: “line up for the talk show” &lt;a href=&quot;http://beacon.party/&quot;&gt;beacon.party&lt;/a&gt; Beacon, by @ashleynh &amp;amp; @khanlou&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 13:15:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/oops-didnt-create.html</link>
+        <pubDate>Tue, 06 Jun 2017 17:15:36 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/oops-didnt-create.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/oops-didnt-create.html</guid>
       </item>
     
@@ -53,8 +62,8 @@
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/cc4ca95fe9.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 10:14:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/no-vpn-control.html</link>
+        <pubDate>Tue, 06 Jun 2017 14:14:29 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/no-vpn-control.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/no-vpn-control.html</guid>
       </item>
     
@@ -64,17 +73,17 @@
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/7233bd1eed.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 10:12:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/new-control-center.html</link>
+        <pubDate>Tue, 06 Jun 2017 14:12:04 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/new-control-center.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/new-control-center.html</guid>
       </item>
     
       <item>
       	
-        <description>&lt;p&gt;Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home. &lt;/p&gt;
+        <description>&lt;p&gt;Turning off iCloud sync for notes had no effect on my secondary phone… maybe that’s why they are not syncing 😂. Might have to pave it when I get home.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 09:48:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/turning-off-icloud.html</link>
+        <pubDate>Tue, 06 Jun 2017 13:48:11 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/turning-off-icloud.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/turning-off-icloud.html</guid>
       </item>
     
@@ -85,8 +94,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/1acb3f5ce6.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 09:44:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/sirithats-a-sketch.html</link>
+        <pubDate>Tue, 06 Jun 2017 13:44:48 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/sirithats-a-sketch.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/sirithats-a-sketch.html</guid>
       </item>
     
@@ -96,8 +105,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/b4709712b5.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Jun 2017 07:27:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/06/ios-upgrades-you.html</link>
+        <pubDate>Tue, 06 Jun 2017 11:27:18 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/06/ios-upgrades-you.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/06/ios-upgrades-you.html</guid>
       </item>
     
@@ -105,19 +114,19 @@ That’s a 🤔sketch 😋&lt;/p&gt;
       	
         <description>&lt;p&gt;Play it and they shal come? @manton &lt;a href=&quot;https://twitter.com/johnvoorhees/status/871129074575396864&quot;&gt;twitter.com/johnvoorh…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 03 Jun 2017 15:16:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/06/03/play-it-and.html</link>
+        <pubDate>Sat, 03 Jun 2017 19:16:29 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/06/03/play-it-and.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/06/03/play-it-and.html</guid>
       </item>
     
       <item>
       	
-        <description>&lt;p&gt;Slightly creepy and accurate. Nebula awards are happening now.  ¯_(ツ)_/¯ &lt;/p&gt;
+        <description>&lt;p&gt;Slightly creepy and accurate. Nebula awards are happening now.  ¯_(ツ)_/¯&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/de08b39f6b.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 20 May 2017 14:02:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/20/slightly-creepy-and.html</link>
+        <pubDate>Sat, 20 May 2017 18:02:54 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/20/slightly-creepy-and.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/20/slightly-creepy-and.html</guid>
       </item>
     
@@ -125,8 +134,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
       	
         <description>&lt;p&gt;TableTop plays Fate Core, looks like a lot of fun.  &lt;a href=&quot;https://youtu.be/NOFXtAHg7vU&quot;&gt;youtu.be/NOFXtAHg7…&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 16 May 2017 21:34:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/16/tabletop-plays-fate.html</link>
+        <pubDate>Wed, 17 May 2017 01:34:41 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/17/tabletop-plays-fate.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/17/tabletop-plays-fate.html</guid>
       </item>
     
@@ -134,8 +143,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
       	
         <description>&lt;p&gt;Going to the &lt;a href=&quot;https://2017.indieweb.org&quot;&gt;2017.indieweb.org&lt;/a&gt;, and my rsvp &lt;a href=&quot;http://crw.moe/b/1u&quot;&gt;http://crw.moe/b/1u&lt;/a&gt; is at my own site. I blame @manton🤓&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 May 2017 23:51:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/08/going-to-the.html</link>
+        <pubDate>Tue, 09 May 2017 03:51:36 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/09/going-to-the.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/09/going-to-the.html</guid>
       </item>
     
@@ -143,8 +152,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
       	
         <description>&lt;p&gt;That feeling when you want to crosspost about a blog post, so you need to get shortlinks on WordPress, but then crw.moe is available 😬&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 May 2017 23:46:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/08/that-feeling-when.html</link>
+        <pubDate>Tue, 09 May 2017 03:46:25 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/09/that-feeling-when.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/09/that-feeling-when.html</guid>
       </item>
     
@@ -154,8 +163,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/74361b6771.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 May 2017 09:05:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html</link>
+        <pubDate>Sun, 07 May 2017 13:05:06 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html</guid>
       </item>
     
@@ -163,8 +172,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
       	
         <description>&lt;p&gt;My &lt;a href=&quot;https://dougbeal.com&quot;&gt;macro blog&lt;/a&gt; has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 May 2017 08:49:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/07/my-macro-bloghttpsdougbealcom.html</link>
+        <pubDate>Sun, 07 May 2017 12:49:41 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/07/my-macro-bloghttpsdougbealcom.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html</guid>
       </item>
     
@@ -175,8 +184,8 @@ That’s a 🤔sketch 😋&lt;/p&gt;
 &lt;p&gt;Looks legit, will use their criteria when I pick out a VPN next.  #micromemory&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 07 May 2017 08:47:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/07/choosing-a-vpn.html</link>
+        <pubDate>Sun, 07 May 2017 12:47:57 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/07/choosing-a-vpn.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/07/choosing-a-vpn.html</guid>
       </item>
     
@@ -187,8 +196,8 @@ eval-expression [M-:]
 (progn (make-local-variable ‘js-indent-level) (setq js-indent-level 2))
 #emacs #elisp&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 May 2017 15:27:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/06/emacs-change-local.html</link>
+        <pubDate>Sat, 06 May 2017 19:27:38 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/06/emacs-change-local.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/06/emacs-change-local.html</guid>
       </item>
     
@@ -198,19 +207,19 @@ eval-expression [M-:]
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 May 2017 13:30:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/06/working-on-long.html</link>
+        <pubDate>Sat, 06 May 2017 17:30:27 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/06/working-on-long.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/06/working-on-long.html</guid>
       </item>
     
       <item>
       	
-        <description>&lt;p&gt;Floating rosemary flowers #portraitmodefail &lt;/p&gt;
+        <description>&lt;p&gt;Floating rosemary flowers #portraitmodefail&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/0da7c592f3.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 May 2017 13:50:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/04/floating-rosemary-flowers.html</link>
+        <pubDate>Thu, 04 May 2017 17:50:14 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/04/floating-rosemary-flowers.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/04/floating-rosemary-flowers.html</guid>
       </item>
     
@@ -220,8 +229,8 @@ eval-expression [M-:]
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/2feb62d7d6.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 May 2017 13:16:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/04/cropped-and-panned.html</link>
+        <pubDate>Thu, 04 May 2017 17:16:38 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/04/cropped-and-panned.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/04/cropped-and-panned.html</guid>
       </item>
     
@@ -229,8 +238,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;Great lineup this year, plus @speakers_union, @_connectedfm  Couldn’t stay away.  &lt;a href=&quot;https://twitter.com/release_notes/status/859075084962729986&quot;&gt;https://twitter.com/release_notes/status/859075084962729986&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 May 2017 10:46:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/05/01/great-lineup-this.html</link>
+        <pubDate>Mon, 01 May 2017 14:46:48 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/05/01/great-lineup-this.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/05/01/great-lineup-this.html</guid>
       </item>
     
@@ -238,8 +247,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;@ismh &lt;a href=&quot;https://www.instagram.com/p/BTXCTcwB76a/&quot;&gt;https://www.instagram.com/p/BTXCTcwB76a/&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 21:41:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/29/ismh-httpswwwinstagramcompbtxctcwba.html</link>
+        <pubDate>Sun, 30 Apr 2017 01:41:10 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/30/ismh-httpswwwinstagramcompbtxctcwba.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/30/ismh-httpswwwinstagramcompbtxctcwba.html</guid>
       </item>
     
@@ -249,8 +258,8 @@ eval-expression [M-:]
 
 &lt;p&gt;&lt;img src=&quot;http://dougbeal.micro.blog/uploads/2017/0ef4a5732a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 10:58:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html</link>
+        <pubDate>Sat, 29 Apr 2017 14:58:12 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/29/httpsgithubcommicrodotblogissuesissues-bugs-all.html</guid>
       </item>
     
@@ -259,8 +268,8 @@ eval-expression [M-:]
         <description>&lt;p&gt;PNW “top 10% wet” - Cliff Mass. A Spatial View of a Wet Winter
 &lt;a href=&quot;http://cliffmass.blogspot.com/2017/04/a-spatial-view-of-wet-winter.html&quot;&gt;http://cliffmass.blogspot.com/2017/04/a-spatial-view-of-wet-winter.html&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 10:53:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/29/pnw-top-wet.html</link>
+        <pubDate>Sat, 29 Apr 2017 14:53:01 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/29/pnw-top-wet.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/29/pnw-top-wet.html</guid>
       </item>
     
@@ -269,17 +278,17 @@ eval-expression [M-:]
         <description>&lt;p&gt;PDX - “One time I went to the airport on purpose 6 hours early to get work done.” @MrsSoup. Art Supply Posse: 41: Heather’s Art Supplies are Moving 📦
 &lt;a href=&quot;https://overcast.fm/&quot;&gt;https://overcast.fm/&lt;/a&gt; GsEb3pYxk/01:23&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 10:32:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/29/pdx-one-time.html</link>
+        <pubDate>Sat, 29 Apr 2017 14:32:44 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/29/pdx-one-time.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/29/pdx-one-time.html</guid>
       </item>
     
       <item>
       	
-        <description>&lt;p&gt;27 bottles of ink. Col-o-ring ink testing book. &lt;a href=&quot;https://goo.gl/photos/Qn9GzFJy6GuuUWoQA&quot;&gt;https://goo.gl/photos/Qn9GzFJy6GuuUWoQA&lt;/a&gt;   Couldnt upload photo with app ¯_(ツ)_/¯ &lt;/p&gt;
+        <description>&lt;p&gt;27 bottles of ink. Col-o-ring ink testing book. &lt;a href=&quot;https://goo.gl/photos/Qn9GzFJy6GuuUWoQA&quot;&gt;https://goo.gl/photos/Qn9GzFJy6GuuUWoQA&lt;/a&gt;   Couldnt upload photo with app ¯_(ツ)_/¯&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 16:39:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/28/bottles-of-ink.html</link>
+        <pubDate>Fri, 28 Apr 2017 20:39:59 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/28/bottles-of-ink.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/29/bottles-of-ink.html</guid>
       </item>
     
@@ -287,8 +296,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;Trying empty repo at &lt;a href=&quot;https://github.com/dougbeal/dougbeal.micro.blog&quot;&gt;https://github.com/dougbeal/dougbeal.micro.blog&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 12:43:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/28/trying-empty-repo.html</link>
+        <pubDate>Fri, 28 Apr 2017 16:43:33 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/28/trying-empty-repo.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/28/trying-empty-repo.html</guid>
       </item>
     
@@ -296,8 +305,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;Change GitHub repo to &lt;a href=&quot;https://github.com/dougbeal/dougbeal.github.io.git&quot;&gt;https://github.com/dougbeal/dougbeal.github.io.git&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 12:31:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/28/change-github-repo.html</link>
+        <pubDate>Fri, 28 Apr 2017 16:31:29 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/28/change-github-repo.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/28/change-github-repo.html</guid>
       </item>
     
@@ -305,8 +314,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;GitHub push?&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 12:17:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/28/github-push.html</link>
+        <pubDate>Fri, 28 Apr 2017 16:17:03 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/28/github-push.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/28/github-push.html</guid>
       </item>
     
@@ -315,8 +324,8 @@ eval-expression [M-:]
         <description>&lt;p&gt;&lt;a href=&quot;https://goo.gl/photos/GVR6aPtS47Din4Mq8&quot;&gt;https://goo.gl/photos/GVR6aPtS47Din4Mq8&lt;/a&gt;
 #catsofmicroblog&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 09:03:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/28/httpsgooglphotosgvraptsdinmqcatsofmicroblog.html</link>
+        <pubDate>Fri, 28 Apr 2017 13:03:46 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/28/httpsgooglphotosgvraptsdinmqcatsofmicroblog.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/28/httpsgooglphotosgvraptsdinmqcatsofmicroblog.html</guid>
       </item>
     
@@ -324,8 +333,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;Episode 254 Sketchnoted and ‘shopped (in @acornapp) &lt;a href=&quot;https://goo.gl/photos/NuCnzeLW5z4z7R2s6&quot;&gt;https://goo.gl/photos/NuCnzeLW5z4z7R2s6&lt;/a&gt; @_penaddictfm&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 14:27:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/27/episode-sketchnoted-and.html</link>
+        <pubDate>Thu, 27 Apr 2017 18:27:14 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/27/episode-sketchnoted-and.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/27/episode-sketchnoted-and.html</guid>
       </item>
     
@@ -333,8 +342,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;&lt;a href=&quot;http://blog.dougbeal.com&quot;&gt;http://blog.dougbeal.com&lt;/a&gt; or &lt;a href=&quot;http://dougbeal.micro.blog&quot;&gt;http://dougbeal.micro.blog&lt;/a&gt; ending the yak shaving and just blogging&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 12:59:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/27/httpblogdougbealcom-or-httpdougbealmicroblog.html</link>
+        <pubDate>Thu, 27 Apr 2017 16:59:30 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/27/httpblogdougbealcom-or-httpdougbealmicroblog.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/27/httpblogdougbealcom-or-httpdougbealmicroblog.html</guid>
       </item>
     
@@ -342,8 +351,8 @@ eval-expression [M-:]
       	
         <description>&lt;p&gt;Posts seem to drop off of blog w/Hyde theme… trying different one.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 12:05:00 -0800</pubDate>
-        <link>http://micro.dougbeal.com/2017/04/27/posts-seem-to.html</link>
+        <pubDate>Thu, 27 Apr 2017 16:05:25 -0400</pubDate>
+        <link>https://micro.dougbeal.com/2017/04/27/posts-seem-to.html</link>
         <guid isPermaLink="true">http://dougbeal.micro.blog/2017/04/27/posts-seem-to.html</guid>
       </item>
     
