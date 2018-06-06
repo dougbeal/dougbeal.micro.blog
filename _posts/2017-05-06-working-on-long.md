@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-06 17:30:27 -0400
+date: 2017-05-06 14:30:27 -0700
 guid: http://dougbeal.micro.blog/2017/05/06/working-on-long.html
 ---
 Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though [github.com/microdotb...](https://github.com/microdotblog/issues/issues/38)
