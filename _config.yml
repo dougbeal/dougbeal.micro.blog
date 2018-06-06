@@ -34,8 +34,9 @@ github_username: "dougbeal"
 instagram_username: "murderofcro.ws"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Michigan"
+timezone: "US/Pacific-New"
 site_id: "430"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "Douglas Beal"
