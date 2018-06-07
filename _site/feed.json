@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2018/06/06/lineup-for-relayfm.html",
+	      	
+			"content_html": "<p>Lineup for <a href=\"https://micro.blog/_RelayFM\">@_RelayFM</a> live show</p>\n\n<p><img src=\"http://micro.dougbeal.com/uploads/2018/5223078d7e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-06T16:32:34-07:00",
+			"url": "https://micro.dougbeal.com/2018/06/06/lineup-for-relayfm.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2018/06/06/at-the-california.html",
 	      	
 			"content_html": "<p>At the California Theater waiting to get to the o̶p̶e̶n̶ ̶b̶a̶r̶ @TheTalkShow Live</p>\n\n<p><img src=\"http://micro.dougbeal.com/uploads/2018/9deb00d552.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Emacs -  Change local indent in a javascript file, when it conflicts with global indent\neval-expression [M-:]\n(progn (make-local-variable ‘js-indent-level) (setq js-indent-level 2))\n#emacs #elisp</p>\n",
 			"date_published": "2017-05-06T16:27:38-07:00",
 			"url": "https://micro.dougbeal.com/2017/05/06/emacs-change-local.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/06/working-on-long.html",
-	      	
-			"content_html": "<p>Working on long form site, due to vagaries of IndieAuth, using GitHub for micro.blog auth, and email/everything else for dougbeal.com. Failed to post via Quill though <a href=\"https://github.com/microdotblog/issues/issues/38\">github.com/microdotb…</a></p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/2c92708074.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-06T14:30:27-07:00",
-			"url": "https://micro.dougbeal.com/2017/05/06/working-on-long.html"
 		}
 		
 	]
