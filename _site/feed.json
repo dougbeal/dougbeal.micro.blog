@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://dougbeal.micro.blog/2018/06/24/foggy-morning.html",
+	      	
+			"content_html": "<p>Foggy morning</p>\n\n<p><img src=\"http://micro.dougbeal.com/uploads/2018/58dfb1abbb.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-24T07:01:37-07:00",
+			"url": "https://micro.dougbeal.com/2018/06/24/foggy-morning.html"
+		},
+		
+		{
 			"id": "http://dougbeal.micro.blog/2018/06/11/finally-escaped-from.html",
 	      	
 			"content_html": "<p>Finally escaped from the San Jose weather ☔️</p>\n\n<p><img src=\"http://micro.dougbeal.com/uploads/2018/c26b719261.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>🐝 on sunroof</p>\n\n<p><img src=\"http://dougbeal.micro.blog/uploads/2017/74361b6771.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-07T10:05:06-07:00",
 			"url": "https://micro.dougbeal.com/2017/05/07/on-sunroofimg-srchttpdougbealmicrobloguploadsbjpg.html"
-		},
-		
-		{
-			"id": "http://dougbeal.micro.blog/2017/05/07/my-macro-bloghttpsdougbealcom.html",
-	      	
-			"content_html": "<p>My <a href=\"https://dougbeal.com\">macro blog</a> has clearly been indexed… 3 comment spams in the moderation queue.  Considering turning on Akismet.</p>\n",
-			"date_published": "2017-05-07T09:49:41-07:00",
-			"url": "https://micro.dougbeal.com/2017/05/07/my-macro-bloghttpsdougbealcom.html"
 		}
 		
 	]
